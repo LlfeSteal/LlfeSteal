@@ -46,4 +46,5 @@ There are languages, frameworks and tools I use the most.
 <div style="display: flex;">
   <img src="../../../../devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="logo playwright" alt="logo playwright" width="60" height="60"/>
   <img src="../../../../devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="logo vitest" alt="logo vitest" width="60" height="60"/>
+  <img src="../../../../devicons/devicon/blob/master/icons/vitest/junit-original.svg" title="logo junit" alt="logo junit" width="60" height="60"/>
 </div>
