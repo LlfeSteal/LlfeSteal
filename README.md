@@ -1,6 +1,6 @@
 <!-- https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax --> 
 # Who am I ? 
-As a French technical leader C# .NET, I lead a team of 10 members working on an Electronic Patient Record system comprising over 200 applications written in C#/.NET.
+As a French technical leader C# .NET, I lead a team of 12 members working on an Electronic Patient Record system comprising over 200 applications written in C#/.NET.
 
 I’m also a Java freelance developer, creating Spigot plugins for Minecraft servers.
 # Languages, Frameworks & Tools
